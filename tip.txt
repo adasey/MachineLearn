@@ -9,3 +9,5 @@ https://bimmermac.com/2667
 윈도우 메모리 c드라이브(혹은 운영체제 설치된 드라이브) 페이징 설정으로 가상메모리가 드라이브에 차지하는 용량 줄이기(혹은 설정된 값 변경)
 할당량은 3~4GB는 설정해줘야 안정적으로 사용가능하다.
 https://imitator.kr/Windows/1660
+
+이 repository는 trading 관련 머신러닝 용으로 사용할 예정
